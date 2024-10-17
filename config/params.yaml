@@ -1,0 +1,5 @@
+bag2seq:
+  ros__parameters:
+    sensor1_topic: sensor_2_image
+    sensor2_topic: sensor_3_image
+    sensor3_topic: sensor_4_image
